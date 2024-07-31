@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer programming with 6 years work experience and 8+ years experience in Unity doing games. I'm also a full stack developer, most interested in React, React-Native, and MySQL or NoSQL databases. I'm continuously studying software architecture and I always like to generate creative and innovative solutions to improve processes. 
+I'm a computer programming with 7 years work experience and 9+ years experience in Unity doing games. I'm also a full stack developer, most interested in React, React-Native, and MySQL or NoSQL databases. I'm continuously studying software architecture and I always like to generate creative and innovative solutions to improve processes. 
 
 
 ## 🌐 Socials:
